@@ -1,1 +1,0 @@
-# Jenkins-SonarQube-Docker-AWS
